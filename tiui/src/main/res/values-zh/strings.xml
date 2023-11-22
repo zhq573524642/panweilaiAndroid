@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mode_cute">萌颜</string>
+
+    <string name="skin_precise">精准美肤</string>
+    <string name="skin_sharpness">清晰</string>
+
+    <string name="ti_face_trim_on">美型:开</string>
+    <string name="ti_face_trim_off">美型:关</string>
+    
+    <string name="category_face">脸部</string>
+    <string name="category_eye">眼部</string>
+    <string name="category_nose">鼻子</string>
+    <string name="category_mouth">嘴巴</string>
+    <string name="category_brow">眉毛</string>
+    
+    <string name="category_nature">自然</string>
+    <string name="category_clear">清透</string>
+    <string name="category_vigour">元气</string>
+    <string name="category_senior">高级</string>
+    <string name="category_atmosphere">氛围</string>
+    <string name="category_food">美食</string>
+    <string name="category_holiday">假日</string>
+    <string name="category_film">胶片</string>
+
+    <string name="face_shape">脸型</string>
+    <string name="classic">经典</string>
+    <string name="square_face">方脸专用</string>
+    <string name="long_face">长脸专用</string>
+    <string name="round_face">圆脸专用</string>
+    <string name="thin_face">瘦脸专用</string>
+
+    <string name="quick_beauty">一键美颜</string>
+    <string name="standard">标准</string>
+    <string name="delicate">精致</string>
+    <string name="cute">可爱</string>
+    <string name="celebrity">网红</string>
+    <string name="natural">自然</string>
+    <string name="lolita">萝莉</string>
+    <string name="elegant">优雅</string>
+    <string name="first_love">初恋</string>
+    <string name="goddess">女神</string>
+    <string name="senior">高级</string>
+    <string name="low_end">低端机适配</string>
+
+    <string name="makeup">美妆</string>
+    <string name="makeup_on">美妆:开</string>
+    <string name="makeup_off">美妆:关</string>
+    <string name="blusher">腮红</string>
+    <string name="eyelash">睫毛</string>
+    <string name="eyebrow">眉毛</string>
+    <string name="eyeshadow">眼影</string>
+    <string name="eyeline">眼线</string>
+
+    <string name="qingse">青涩</string>
+    <string name="riza">日杂</string>
+    <string name="tiancheng">甜橙</string>
+    <string name="youya">优雅</string>
+    <string name="weixun">微醺</string>
+    <string name="xindong">心动</string>
+
+    <string name="ziran">自然</string>
+    <string name="rouhe">柔和</string>
+    <string name="nongmi">浓密</string>
+    <string name="meihuo">魅惑</string>
+    <string name="babi">芭比</string>
+    <string name="wumei">妩媚</string>
+
+    <string name="biaozhunmei">标准眉</string>
+    <string name="jianmei">剑眉</string>
+    <string name="liuyemei">柳叶眉</string>
+    <string name="pingzhimei">平直眉</string>
+    <string name="liuxingmei">流星眉</string>
+    <string name="oushimei">欧式眉</string>
+
+    <string name="gexing">个性</string>
+    <string name="meihei">魅黑</string>
+    <string name="qingqiao">轻巧</string>
+    <string name="rouhua">柔滑</string>
+    <string name="shensui">深邃</string>
+    <string name="suyan">素颜</string>
+    <string name="wugu">无辜</string>
+
+    <string name="dadi">大地</string>
+    <string name="nvtuan">女团</string>
+    <string name="taohua">桃花</string>
+    <string name="xiari">夏天</string>
+    <string name="yanxun">烟熏妆</string>
+    <string name="yuanqi">元气</string>
+
+    <string name="filter_suyan">素颜</string>
+    <string name="filter_feiying">绯樱</string>
+    <string name="filter_qianxing">浅杏</string>
+    <string name="filter_qiangwei">蔷薇</string>
+    <string name="filter_qingning">青柠</string>
+    <string name="filter_zhenzhu">珍珠</string>
+    <string name="filter_nuanchun">暖春</string>
+
+    <string name="filter_qingxi">清晰</string>
+    <string name="filter_niunai">牛奶</string>
+    <string name="filter_shuiwu">水雾</string>
+    <string name="filter_yanxi">盐系</string>
+    <string name="filter_shuiguang">水光</string>
+    <string name="filter_naixing">奶杏</string>
+
+    <string name="filter_shaonv">少女</string>
+    <string name="filter_baitao">白桃</string>
+    <string name="filter_rixi">日系</string>
+    <string name="filter_fenxia">粉夏</string>
+    <string name="filter_tianmei">甜美</string>
+    <string name="filter_naiyou">奶油</string>
+    <string name="filter_riza">日杂</string>
+    <string name="filter_naiyoumitao">奶油蜜桃</string>
+    <string name="filter_juziqishui">橘子汽水</string>
+
+    <string name="filter_huidiao">灰调</string>
+    <string name="filter_lengdan">冷淡</string>
+    <string name="filter_huayan">花颜</string>
+    <string name="filter_zhigan">质感</string>
+    <string name="filter_jizhou">济州</string>
+
+    <string name="filter_youhua1">油画Ⅰ</string>
+    <string name="filter_youhua2">油画Ⅱ</string>
+    <string name="filter_senxi">森系</string>
+    <string name="filter_zhongxiameng">仲夏梦</string>
+
+    <string name="filter_meiwei">美味</string>
+    <string name="filter_xinxian">新鲜</string>
+    <string name="filter_mitaowulong">蜜桃乌龙</string>
+    <string name="filter_nuanshi">暖食</string>
+    <string name="filter_shenyeshitang">深夜食堂</string>
+
+    <string name="filter_xiari">夏日</string>
+    <string name="filter_nuanyang">暖阳</string>
+    <string name="filter_zhaohe">昭和</string>
+    <string name="filter_boshidun">波士顿</string>
+
+    <string name="filter_pailide">拍立得</string>
+    <string name="filter_huiyi">回忆</string>
+    <string name="filter_fanchase">反差色</string>
+    <string name="filter_fugu">复古</string>
+    <string name="filter_huaijiu">怀旧</string>
+    <string name="filter_heibai">黑白</string>
+
+    <string name="green_screen_similarity">相似度</string>
+    <string name="green_screen_smoothness">平滑度</string>
+    <string name="green_screen_alpha">透明度</string>
+    <string name="green_screen_restore">恢复</string>
+
+    <string name="filter_no">原图</string>
+    <string name="rock_no">原图</string>
+    <string name="distortion_no">原图</string>
+    <string name="hair_no">原图</string>
+
+    <string name="reset">重置</string>
+    <string name="is_reset_all_params_to_default">确定将所有参数值恢复默认吗?</string>
+    <string name="confirm">确认</string>
+    <string name="cancel">取消</string>
+
+    <string name="none">无</string>
+
+    <string name="interaction">互动</string>
+    <string name="gesture">手势识别</string>
+    <string name="jawbone_slimming">瘦下颌</string>
+    <string name="brow_corner">提眉峰</string>
+
+
+
+    <string name="skin_whitening">美白</string>
+    <string name="skin_blemish_removal">磨皮</string>
+    <string name="skin_saturation">饱和</string>
+    <string name="skin_tenderness">粉嫩</string>
+    <string name="skin_brightness">亮度</string>
+    <string name="face_trim">美型</string>
+    <string name="beauty">美颜</string>
+    <string name="eye_magnifying">大眼</string>
+    <string name="chin_slimming">瘦脸</string>
+    <string name="jaw_transforming">下巴</string>
+    <string name="forehead_transforming">额头</string>
+    <string name="mouth_transforming">嘴型</string>
+    <string name="nose_minifying">瘦鼻</string>
+    <string name="teeth_whitening">美牙</string>
+    <string name="face_narrowing">窄脸</string>
+    <string name="eye_spacing">眼间距</string>
+    <string name="nose_elongating">长鼻</string>
+    <string name="eye_corners">眼角</string>
+    <string name="eye_inner_corners">内眼角</string>
+    <string name="eye_outer_corners">外眼尾</string>
+    <string name="cheekbone_slimming">瘦颧骨</string>
+    <string name="mouth_smiling">扬嘴角</string>
+    <string name="mouth_height">嘴高低</string>
+    <string name="mouth_lip_size">唇厚薄</string>
+    <string name="brow_height">眉高低</string>
+    <string name="brow_length">眉长短</string>
+    <string name="brow_space">眉间距</string>
+    <string name="brow_size">眉粗细</string>
+    <string name="jaw_slimming">削下巴</string>
+
+    <string name="rock">抖动</string>
+    <string name="filter">滤镜</string>
+    <string name="distortion">哈哈镜</string>
+    <string name="sticker">贴纸</string>
+    <string name="gift">礼物</string>
+    <string name="mask">面具</string>
+    <string name="watermark">水印</string>
+    <string name="green_screen">绿幕抠图</string>
+    <string name="portrait">人像抠图</string>
+    <string name="hair">美发</string>
+
+
+    <string name="rock_dazzled_color">炫彩抖动</string>
+    <string name="rock_light_color">轻彩抖动</string>
+    <string name="rock_dizzy_giddy">头晕目眩</string>
+    <string name="rock_astral_projection">灵魂出窍</string>
+    <string name="rock_black_magic">暗黑魔法</string>
+    <string name="rock_virtual_mirror">虚拟镜像</string>
+    <string name="rock_dynamic_split">动感分屏</string>
+    <string name="rock_black_white_film">黑白电影</string>
+    <string name="rock_gray_petrifaction">瞬间石化</string>
+    <string name="rock_bulge_distortion">魔法镜面</string>
+
+    <string name="onekey_beauty_standard">标准</string>
+    <string name="onekey_beauty_delicate">精致</string>
+    <string name="onekey_beauty_lovely">可爱</string>
+    <string name="onekey_beauty_internet_celebrity">网红</string>
+    <string name="onekey_beauty_natural">自然</string>
+    <string name="onekey_beauty_lolita">萝莉</string>
+    <string name="onekey_beauty_elegant">优雅</string>
+    <string name="onekey_beauty_first_love">初恋</string>
+    <string name="onekey_beauty_godness">女神</string>
+    <string name="onekey_beauty_advanced">高级</string>
+    <string name="onekey_beauty_low_end">低端机适配</string>
+
+    <string name="face_shape_classic">经典</string>
+    <string name="face_shape_square">方脸</string>
+    <string name="face_shape_long">长脸</string>
+    <string name="face_shape_rounded">圆脸</string>
+    <string name="face_shape_slim">瘦脸</string>
+
+
+    <string name="filter_sketch">素描</string>
+    <string name="filter_sobel_edge">黑边</string>
+    <string name="filter_cartoon">卡通</string>
+    <string name="filter_emboss">浮雕</string>
+    <string name="filter_film">胶片</string>
+    <string name="filter_pixelation">马赛克</string>
+    <string name="filter_halftone">半色调</string>
+    <string name="filter_crosshatch">交叉线</string>
+    <string name="filter_nashville">初夏</string>
+    <string name="filter_coffee">咖啡</string>
+    <string name="filter_chocolate">巧克力</string>
+    <string name="filter_coco">可可</string>
+    <string name="filter_delicious">甜心</string>
+    <string name="filter_first_love">初恋</string>
+    <string name="filter_forest">森林</string>
+    <string name="filter_glossy">光泽</string>
+    <string name="filter_grass">禾草</string>
+    <string name="filter_holiday">假日</string>
+    <string name="filter_kiss">初吻</string>
+    <string name="filter_lolita">洛丽塔</string>
+    <string name="filter_memory">回忆</string>
+    <string name="filter_mousse">慕斯</string>
+    <string name="filter_normal">基准</string>
+    <string name="filter_oxgen">氧气</string>
+    <string name="filter_platycodon">桔梗</string>
+    <string name="filter_red">赤红</string>
+    <string name="filter_sunless">冷日</string>
+    <string name="filter_pinch_distortion">扭曲</string>
+    <string name="filter_kuwahara">油画</string>
+    <string name="filter_posterize">分色</string>
+    <string name="filter_swirl_distortion">漩涡</string>
+    <string name="filter_vignette">光晕</string>
+    <string name="filter_zoom_blur">眩晕</string>
+    <string name="filter_polka_dot">圆点</string>
+    <string name="filter_polar_pixellate">极坐标</string>
+    <string name="filter_glass_sphere_refraction">水晶球</string>
+    <string name="filter_solarize">曝光</string>
+    <string name="filter_ink_wash_painting">水墨</string>
+    <string name="filter_arabica">作旧</string>
+    <string name="filter_ava">奶茶</string>
+    <string name="filter_azreal">素肌</string>
+    <string name="filter_bourbon">法式</string>
+    <string name="filter_byers">蜜桃</string>
+    <string name="filter_chemical">复古</string>
+    <string name="filter_clayton">黑白格</string>
+    <string name="filter_clouseau">霏颜</string>
+    <string name="filter_cobi">高级灰</string>
+    <string name="filter_contrail">卡梅尔</string>
+    <string name="filter_cubicle">梦境</string>
+    <string name="filter_django">浅茶</string>
+
+
+    <string name="distortion_et">外星人</string>
+    <string name="distortion_pear_face">梨梨脸</string>
+    <string name="distortion_slim_face">瘦瘦脸</string>
+    <string name="distortion_square_face">方方脸</string>
+
+    <string name="makeup_no">无</string>
+    <string name="makeup_eye_brow">眉毛</string>
+    <string name="makeup_eye_lash">睫毛</string>
+    <string name="makeup_blusher">腮红</string>
+    <string name="makeup_eye_shadow">眼影</string>
+    <string name="makeup_eye_line">眼线</string>
+
+    <string name="ti_beauty_on">美颜:开</string>
+    <string name="ti_beauty_off">美颜:关</string>
+    <string name="ti_body_shaping_on">美体:开</string>
+    <string name="ti_body_shaping_off">美体:关</string>
+
+
+    <string name="hair_my_purple">神秘紫</string>
+    <string name="hair_chocolate">巧克力</string>
+    <string name="hair_aj_brown">青木棕</string>
+    <string name="hair_ca_brown">焦糖棕</string>
+    <string name="hair_hon_brown">蜂蜜醇棕</string>
+    <string name="hair_ltg_brown">浅金棕</string>
+    <string name="hair_rose_gold">玫瑰金</string>
+    <string name="hair_fw_gold">亚麻白金</string>
+    <string name="hair_ss_orange">落日橘</string>
+    <string name="hair_fl_orange">亚麻浅橘</string>
+    <string name="hair_vintage_rose">复古玫瑰</string>
+    <string name="hair_tender_rose">深玫瑰</string>
+    <string name="hair_mg_purple">烟灰雾紫</string>
+    <string name="hair_spr_brown">粉玫甜棕</string>
+    <string name="hair_frog_taro">雾霾香芋</string>
+    <string name="hair_peacock_blue">孔雀蓝</string>
+    <string name="hair_fb_gray">雾霾蓝灰</string>
+    <string name="hair_fg_brown">亚麻灰棕</string>
+    <string name="hair_fl_gray">亚麻浅灰</string>
+
+</resources>
